@@ -1,0 +1,175 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+
+.head{
+    width:1006px;
+    height:144px;
+    margin:0 auto;
+}
+
+.head-left{
+    width:259px;
+    height:144px;
+    float:left;
+
+}
+
+.head-left-pic{
+    padding-top:32px;
+}
+
+.head-right{
+    width:747px;
+    height:144px;
+    float:right;
+}
+
+.head-right-list{
+    list-style: none;
+    float:right;
+    padding-top: 64px;
+    word-spacing: 39px;
+}
+
+.head-right-list li{
+    display: inline;
+}
+
+.head-right-list li:hover{
+    color:#3399cc;
+    cursor:pointer;
+}
+
+.news-img-box{
+    width:100%;
+    height:256px;
+    text-align: center;
+    background-color: #3399cc;
+}
+
+.middle{
+    width:1006px;
+    height:565px;
+    margin: 0 auto;
+}
+
+.middle-top{
+    width:1006px;
+    height:76px;
+    float:left;
+}
+
+.middle-top-pic{
+    width:16px;
+    height:19px;
+    float:left;
+    margin-right: 8px;
+    padding-top:30px;
+}
+
+.middle-top-list{
+    list-style:none;
+    float:left;
+    word-spacing: 9px;
+    padding-top: 30px;
+}
+
+.middle-top-list li{
+    display: inline;
+}
+
+.middle-top-list li:hover{
+    color:#3399cc;
+    cursor: pointer;
+}
+
+.middle-left{
+    width:218px;
+    height:489px;
+    float:left;
+}
+
+.middle-left-list-first{
+    list-style:none;
+    width:212px;
+    height:43px;
+    border-left: 6px solid #3399cc;
+    background-color: #3399cc;
+    color:#ffffff;
+    text-align: center;
+    line-height: 43px;
+}
+
+.middle-left-list-second{
+    list-style: none;
+    width:212px;
+    height:43px;
+    border-left: 6px solid #999999;
+    background-color: #f5f5f5;
+    text-align: center;
+    line-height: 43px;
+    margin-bottom: 1px;
+}
+
+.middle-left-list-second:hover{
+    border-left: 6px solid #3399cc;
+    cursor: pointer;
+    color:#3399cc;
+}
+
+.middle-left-list-last{
+    list-style: none;
+    width:218px;
+    height:225px;
+    background-color: #f5f5f5;
+}
+
+.middle-right{
+    width:747px;
+    height:489px;
+    float:right;
+}
+
+.middle-right-title{
+    font-size:18px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.middle-right-smallTitle{
+    color:#999999;
+    font-size: 13px;
+    padding-bottom:19px;
+    text-align: center;
+}
+
+.middle-right-pics{
+    width:747px;
+    height:162px;
+}
+
+.middle-right-pic{
+    padding-right:86px;
+}
+
+.middle-right-content{
+    text-indent:26px;
+    font-size:13px;
+    line-height: 24px;
+}
+
+.bottom{
+    width:100%;
+    height:111px;
+    padding-top:40px;
+    background-color: #e2e2e1;
+}
+
+.bottom-text{
+    font-size: 14px;
+    text-align: center;
+    line-height: 28px;
+}
